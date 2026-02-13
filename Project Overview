@@ -1,0 +1,47 @@
+# One‑Page Graphic Designer Portfolio
+
+## Project Overview
+
+This is a clean, modern, one‑page portfolio for a professional graphic designer. It’s built with **pure HTML, CSS, and JavaScript** and focuses on:
+
+* Strong visual hierarchy
+* Smooth navigation
+* Clear presentation of skills and projects
+* Professional yet aesthetic UI
+
+The layout is responsive, easy to understand, and suitable for real‑world client or recruiter review.
+
+---
+
+## Project Structure
+
+```
+portfolio/
+│
+├── index.html      # Main HTML structure
+├── style.css       # Styling & layout
+└── script.js       # Interactions & behavior
+```
+
+---
+
+## Implementation Details
+
+### Sections Included
+
+1. **Hero / Intro** – Name, role, short tagline, call‑to‑action
+2. **About Me** – Short professional bio
+3. **Skills** – Key design tools & strengths
+4. **Projects** – Featured works (grid layout)
+5. **Contact** – Simple contact info + CTA
+6. **Footer** – Copyright & social links
+
+### UI / UX Decisions
+
+* One‑page smooth scrolling navigation
+* Minimal color palette with accent color
+* Large typography for clarity
+* Hover effects for interactivity
+* Mobile‑friendly layout
+
+---
